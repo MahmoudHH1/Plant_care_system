@@ -20,4 +20,18 @@ This project implements an automated plant care system with two stages: watering
 ## How to Use:
 1. Connect the necessary hardware components according to the provided schematic.
 2. Upload the Arduino code to the microcontroller.
-3. 
+3. Start the system by pressing the start button.
+4. The system will proceed through Stage 1 (watering) and then Stage 2 (fertilizer dispensation) automatically.
+5. To stop the system, press the stop button.
+
+## Hardware Requirements:
+- Microcontroller (e.g., Arduino)
+- Water pump
+- Motor for fertilizer dispensation
+- LEDs for stage indication
+- Pushbuttons for start and stop functionalities
+
+## Usage Notes:
+- Ensure proper wiring and setup of hardware components.
+- Adjust the duration of watering and fertilizer dispensation as per plant requirements.
+- Use caution when handling electrical components and ensure safety measures are followed.
