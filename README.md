@@ -25,7 +25,7 @@ This project implements an automated plant care system with two stages: watering
 5. To stop the system, press the stop button.
 
 ## Hardware Requirements:
-- Microcontroller (e.g., Arduino)
+- Microcontroller (e.g., FPGA)
 - Water pump
 - Motor for fertilizer dispensation
 - LEDs for stage indication
